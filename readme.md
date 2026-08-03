@@ -1,5 +1,5 @@
 Code for generating the figures in the article **Auditory-motor surprisal reveals learning across multiple timescales during exploration and production.**
-Preprint link: TBD.
+[Preprint link](https://www.biorxiv.org/content/10.64898/2026.03.23.712909v2)
 
 The scripts used to produce the figures are located in ARTICLE_FIGS. Each script lists the figures it generates at the top of the file.
 A copy of the conda environment used for the analyses is provided in requirements.yml.
