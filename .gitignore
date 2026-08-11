@@ -8,3 +8,5 @@
 ._*
 __MACOSX/
 *__pycache__
+
+extra_analyses/
